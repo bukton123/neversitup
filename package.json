@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "test": "jest --watchAll"
+    "test": "jest --watchAll",
+    "clear": "jest --clearCache"
   },
   "dependencies": {
     "jest": "^29.7.0"
